@@ -1,0 +1,5 @@
+#ffcdd2 red lighten-4
+#ef9a9a red lighten-3
+#f48fb1 pink lighten-3
+#ad1457 pink darken-3
+#880e4f pink darken-4
