@@ -1,2 +1,2 @@
 # votacao
-Sistema de votação básico com back em PHP.
+Sistema de votação básico em PHP.
